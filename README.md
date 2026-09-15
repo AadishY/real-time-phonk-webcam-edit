@@ -1,7 +1,7 @@
 <div align="center">
 
-# ⚡ REAL-TIME PHONK WEB EDITOR
-### *Tactical Computer Vision Monitor & Automated Phonk Edit Generator*
+# ⚡ REAL-TIME PHONK WEBCAM EDIT
+### *Tactical Computer Vision Monitor & Automated Phonk Edit WEBCAM*
 
 [![React](https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
